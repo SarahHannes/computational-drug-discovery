@@ -17,4 +17,4 @@ Severe acute respiratory syndrome coronavirus 2
 - Trained 3 models (Bayesian Ridge, XGBoost, LightGBM), however all of the trained models have subpar performance ~50%.
 
 ### What could be improved: 
-- Perform more feature extraction, perhaps using PCA.
+- Perform more feature extraction/ dimensionality reduction, perhaps using PCA, ivis.
