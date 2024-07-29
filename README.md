@@ -18,3 +18,4 @@ Severe acute respiratory syndrome coronavirus 2
 
 ### What could be improved: 
 - Perform more feature extraction/ dimensionality reduction, perhaps using PCA, ivis.
+- tune hyperparameters
