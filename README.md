@@ -33,4 +33,5 @@
 
 ### References & Credit:
 Referenced <a href="https://youtu.be/plVLRashaA8?si=cRq4rxBGerQKeRuY">tutorial from Data Professor</a> with some updates:
+  - Different target protein
   - Explored more models and did additional feature extractions techniques
