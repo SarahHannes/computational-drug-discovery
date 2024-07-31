@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/SarahHannes/computational-drug-discovery/blob/main/computational_drug_discovery.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ### Goal:
 - Predict molecular compound's pIC50 on target protein
 
