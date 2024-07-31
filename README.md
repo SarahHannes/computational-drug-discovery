@@ -32,6 +32,7 @@
 - Try more complex model architectures
 
 ### References & Credit:
-Referenced <a href="https://youtu.be/plVLRashaA8?si=cRq4rxBGerQKeRuY">tutorial from Data Professor</a> with some updates:
-  - Different target protein
-  - Explored more models and did additional feature extractions techniques
+1. <a href="https://youtu.be/plVLRashaA8?si=cRq4rxBGerQKeRuY">Tutorial from Data Professor</a> with some updates:
+    - Different target protein
+    - Explored more models and did additional feature extractions techniques
+2. <a href="https://www.kaggle.com/competitions/lish-moa/discussion/201510">Winner</a>  for Mechanisms of Action (MoA) Kaggle Competition.
